@@ -1,0 +1,73 @@
+## General
+
+# Compiled Object files
+*__pycache__/*
+*.pyc
+*.rdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# IPython notebook related
+.ipynb_checkpoints
+
+# Editor temporaries
+*.swp
+*~
+
+# Sublime Text settings
+*.sublime-workspace
+*.sublime-project
+
+# Eclipse Project settings
+*.*project
+.settings
+
+# QtCreator files
+*.user
+
+# PyCharm files
+.idea
+
+# OSX dir files
+.DS_Store
+".gitignore" 45L, 500C
+
+# Vscode settings
+.vscode/
+
+# temp scripts and files
+scripts/
+tmp/
+temp/
+
+# checkpoint related
+save/
+checkpoints/
+*.pth
+*.ts
+*.onnx
+
+# runtime dataset
+runtime_data/
+
+# configuration files or key files
+*.pkl
+
+# log files
+*.log
+*.err
+*.out
+*.txt
+
+# wandb log file
+wandb/
+
+# datasets
+data/
